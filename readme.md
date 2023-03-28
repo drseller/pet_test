@@ -1,3 +1,3 @@
 # Git and Github course
 
-Crash course test
+Crash course tests
